@@ -5,7 +5,7 @@ Fixes #
 
 
 
-## Make sure to check points below to increase ikelihood of your pull request being accepted:
+## Make sure to check points below to increase likelyhood of your pull request being accepted:
 
 - [ ] I have updated the documentation
 - [ ] I have added tests to cover my changes
