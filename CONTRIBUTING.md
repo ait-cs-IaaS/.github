@@ -1,4 +1,4 @@
-## Contributing
+# Contributing
 
 Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
 
@@ -13,6 +13,7 @@ Contributions to this project are released to the public under the project's ope
 Here are a few things you can do that will increase the likelihood of your pull request being accepted:
 
 - Follow standards for style and code quality
+- Watch out for [pre-commit hooks](https://pre-commit.com)
 - Write tests.
 - Keep your change as focused as possible.
 - Write documentation.
